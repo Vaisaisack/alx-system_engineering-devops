@@ -1,2 +1,2 @@
 #!/bin/bash
-chmo + rwx hello
+chmod 744 hello
