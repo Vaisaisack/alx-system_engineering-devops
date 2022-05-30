@@ -1,1 +1,2 @@
-ex +3p -scq iacta
+#!/bin/bash
+ex +3p -scq /iacta
