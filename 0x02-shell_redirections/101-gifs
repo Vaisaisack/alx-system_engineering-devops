@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la ./ name *.gif 
+ls -a ./ name *.gif | sort | unique 
