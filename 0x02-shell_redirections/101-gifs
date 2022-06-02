@@ -1,1 +1,2 @@
-ls -Ra *.gif | sort
+#!/bin/bash
+find . -type f -regex ".*\.gif" ls -a | sort
