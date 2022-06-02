@@ -1,2 +1,1 @@
 #!/bin/bash
-cat root | head -3 >/etc/passwd
