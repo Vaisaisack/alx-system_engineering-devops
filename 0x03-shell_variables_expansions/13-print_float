@@ -1,1 +1,2 @@
-printf %0.2fn $NUM
+#!/bin/bash
+printf %.2fn $NUM
