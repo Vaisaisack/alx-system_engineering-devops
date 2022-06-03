@@ -1,1 +1,1 @@
-redirection of files
+shell initiate variable and expansion
